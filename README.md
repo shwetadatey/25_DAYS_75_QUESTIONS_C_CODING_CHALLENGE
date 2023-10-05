@@ -18,6 +18,7 @@ Welcome to the 25-Day-75 Coding Challenge in C!
 2. Solve each day's challenge and submit your solution.
 3. Engage with the community by sharing your approach and learning from others.
 4. Use #25Day75QuestionsCodingChallengeC in your posts to connect with fellow participants.
+5. Reference Questions:
 
 Join us on this coding journey and unlock your full programming potential. Let's code together and make the next 25 days the most productive of the year! 💪
 
