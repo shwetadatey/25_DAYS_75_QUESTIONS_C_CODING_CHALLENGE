@@ -2,7 +2,7 @@
 #include<conio.h>
 #include <math.h>
 void main()
-1.{
+{
     double a, b, c, discriminant, root1, root2, realPart, imagPart;
     printf("Enter coefficients a, b and c: ");
     scanf("%lf %lf %lf", &a, &b, &c);
